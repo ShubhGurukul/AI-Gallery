@@ -6,6 +6,10 @@
 1. QR Scanner
 2. Text Extraction from Images
 3. Object Detection
+4. Group image based on object in image and generate searchable object tags
+5. Generate captions for image
+6. Duplicate image removal
+7. Image restoration
 
 ![image](https://user-images.githubusercontent.com/65031177/190869667-564eda7c-58fc-431c-9624-508c20385960.png)
 
